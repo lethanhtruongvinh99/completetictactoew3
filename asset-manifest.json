@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/completetictactoe/static/css/main.03353089.chunk.css",
-    "main.js": "/completetictactoe/static/js/main.bc38143f.chunk.js",
-    "main.js.map": "/completetictactoe/static/js/main.bc38143f.chunk.js.map",
-    "runtime-main.js": "/completetictactoe/static/js/runtime-main.61e61df3.js",
-    "runtime-main.js.map": "/completetictactoe/static/js/runtime-main.61e61df3.js.map",
-    "static/js/2.cd816c69.chunk.js": "/completetictactoe/static/js/2.cd816c69.chunk.js",
-    "static/js/2.cd816c69.chunk.js.map": "/completetictactoe/static/js/2.cd816c69.chunk.js.map",
-    "index.html": "/completetictactoe/index.html",
-    "precache-manifest.c5e24d9d093541fd8767fe81991f4477.js": "/completetictactoe/precache-manifest.c5e24d9d093541fd8767fe81991f4477.js",
-    "service-worker.js": "/completetictactoe/service-worker.js",
-    "static/css/main.03353089.chunk.css.map": "/completetictactoe/static/css/main.03353089.chunk.css.map",
-    "static/js/2.cd816c69.chunk.js.LICENSE.txt": "/completetictactoe/static/js/2.cd816c69.chunk.js.LICENSE.txt"
+    "main.css": "/completetictactoew3/static/css/main.03353089.chunk.css",
+    "main.js": "/completetictactoew3/static/js/main.bc38143f.chunk.js",
+    "main.js.map": "/completetictactoew3/static/js/main.bc38143f.chunk.js.map",
+    "runtime-main.js": "/completetictactoew3/static/js/runtime-main.5429aece.js",
+    "runtime-main.js.map": "/completetictactoew3/static/js/runtime-main.5429aece.js.map",
+    "static/js/2.cd816c69.chunk.js": "/completetictactoew3/static/js/2.cd816c69.chunk.js",
+    "static/js/2.cd816c69.chunk.js.map": "/completetictactoew3/static/js/2.cd816c69.chunk.js.map",
+    "index.html": "/completetictactoew3/index.html",
+    "precache-manifest.9ad875fb7afd364efcf21cd628f75acd.js": "/completetictactoew3/precache-manifest.9ad875fb7afd364efcf21cd628f75acd.js",
+    "service-worker.js": "/completetictactoew3/service-worker.js",
+    "static/css/main.03353089.chunk.css.map": "/completetictactoew3/static/css/main.03353089.chunk.css.map",
+    "static/js/2.cd816c69.chunk.js.LICENSE.txt": "/completetictactoew3/static/js/2.cd816c69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61e61df3.js",
+    "static/js/runtime-main.5429aece.js",
     "static/js/2.cd816c69.chunk.js",
     "static/css/main.03353089.chunk.css",
     "static/js/main.bc38143f.chunk.js"
